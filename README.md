@@ -29,3 +29,11 @@ I look at this in a few different ways. The first is simply looking at how each 
 FIGURE XXXX
 
 Here we see that, generally speaking, most teams have a positive NAV score in both total terms (NAV of each pick summed over 32 drafts) and their median NAV added. There are exceptions, of course. Cleveland (a reoccuring theme as we will see), Cincinnati, and Las Vegas are pretty bad at drafting over our window.
+
+
+
+#### The Worst Draft Pick Ever
+This won't be a suprise to anyone who has a decent understanding of draft history. It is Spergon Wynn who was drafted 16 spots before Tom Brady and cost Cleveland 182 AV points. 
+
+#### The Best Draft Pick Ever (besides Tom Brady)
+
