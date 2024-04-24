@@ -28,7 +28,7 @@ The main variable of interest is what I call NAV (or Next Alternative Value). NA
 ### Findings
 TLDR: Teams are generally pretty good at drafting the better player.
 
-I look at this in a few different ways. The first is simply looking at how each team did over those drafts as both a raw number of added value and a mean added value. These are Figures 1 and 2 below. In both plots there is a gray line at 0 (teams below that line are pretty bad at drafting players) and a red line at the median NAV for that dataset (total NAV and median NAV respectively).
+I look at this in a few different ways. The first is simply looking at how each team did over those drafts as both a raw number of added value and a mean added value. These are Figures 1 and 2 below. In both plots there is a gray line at 0 (teams below that line are pretty bad at drafting players) and a red line at the median NAV for that dataset (total NAV and mean NAV respectively).
 
 ##### FIGURE 1: Total NAV Per Team
 
@@ -36,14 +36,14 @@ I look at this in a few different ways. The first is simply looking at how each 
   <img width="750" height="600" src="teams.fig1.png">
 </p>
 
-Here we see that, generally speaking, most teams have a positive NAV score in both total terms (NAV of each pick summed over 32 drafts) and their mean NAV added. There are exceptions, of course. Cleveland (a reoccuring theme as we will see), Cincinnati, and Las Vegas are pretty bad at drafting over our window. Teams that have historically been successful on the field during our window tend to be better at drafting (Green Bay, Indianapolis, Balitmore, New England). 
+Here we see that, generally speaking, most teams have a positive NAV score in both total terms (NAV of each pick summed over 32 drafts) and their mean NAV added. Teams above the red line are excellent at correctly picking the better player between two options. Teams that have historically been successful on the field during our window tend to be better at drafting (Green Bay, Indianapolis, Balitmore, New England). Teams between the red and gray lines are able to correctly identify the better player between two choices, but are not doing so as well as those above. Teams below the gray line, Cleveland, Cincinnati, and Las Vegas, are pretty bad at drafting over our window. Essentially, those teams are consistently picking the player who has a worse career between the two choices.
 
 ##### FIGURE 2: Mean NAV Per Team
 <p align="center">
   <img width="750" height="600" src="teams.fig2.png">
 </p>
 
-
+That is not to say drafting is the end all of success. Multiple teams who are okay or even borderline bad at drafting still have success and can win Super Bowls. The results here are confined to considering draft ability, not the translation to actually winning games.
 
 #### The Best and Worst Picks to Have
 I also wanted to look 
