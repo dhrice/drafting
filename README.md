@@ -74,10 +74,13 @@ Still, there are interesting results in here. I want to zoom in on the first par
 This won't be a surprise to anyone who has a decent understanding of draft history. It's Spergon Wynn, who was drafted 16 spots before Tom Brady and cost Cleveland 182 AV points. 
 
 | Player Header | AV Header | Next Player Header | Next Player AV Header | NAV Header |
-| --------------- | --------------- | --------------- | --------------- | --------------- |
+| --------------- | :------------: | --------------- | :-------------: | :-------------: |
 | Spergon Winn | 2 | Tom Brady | 184 | -182 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 | Row 3 Column 3 | Row 3 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 | Row 3 Column 3 | Row 3 Column 3 |
+| Todd Marinovich | 3 | Brett Favre | 158 | -155 |
+| Reggie Brown | 11 | Ray Lewis | 160 | -149 |
+| Coleman Rudolph | 6 | Michael Strahan | 122 | -116 |
+| Brock Osweiler | 14 | Russell Wilson | 130 | -116 |
+
 
 
 
