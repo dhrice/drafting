@@ -46,13 +46,19 @@ Here we see that, generally speaking, most teams have a positive NAV score in bo
 That is not to say drafting is the end all of success. Multiple teams who are okay or even borderline bad at drafting still have success and can win Super Bowls. The results here are confined to considering draft ability, not the translation to actually winning games.
 
 #### The Best and Worst Picks to Have
-I also wanted to look 
+I also wanted to look the pick positions themselves to see if there is anything interesting going on. First, I just look at the mean AV for each pick slot. Figure 3 below shows the results across the 33 drafts. Unsurprisingly, the first pick has the best AV of all of them. On average, drafting first gets you a really good player. 
 
 ##### FIGURE 3: Mean AV Per Pick
 <p align="center">
   <img width="750" height="600" src="teams.fig3.png">
 </p>
 
+Still, there are interesting results in here. Figure 4 is the same results but for just the first two rounds (top-64 picks). Some picks stand out as being notably worse than others, especially the 22nd pick.
+
+##### FIGURE 4: Mean AV Per Pick (First Two Rounds)
+<p align="center">
+  <img width="750" height="600" src="teams.fig4.png">
+</p>
 
 #### The Worst Draft Pick Ever
 This won't be a suprise to anyone who has a decent understanding of draft history. It's Spergon Wynn, who was drafted 16 spots before Tom Brady and cost Cleveland 182 AV points. 
