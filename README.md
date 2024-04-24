@@ -73,21 +73,14 @@ Still, there are interesting results in here. I want to zoom in on the first par
 #### The Worst Draft Pick Ever
 This won't be a surprise to anyone who has a decent understanding of draft history. It's Spergon Wynn, who was drafted 16 spots before Tom Brady and cost Cleveland 182 AV points. 
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
-| --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+| Player Header | AV Header | Next Player Header | Next Player AV Header | NAV Header |
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+| Spergon Winn | 2 | Tom Brady | 184 | -182 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 | Row 3 Column 3 | Row 3 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 | Row 3 Column 3 | Row 3 Column 3 |
 
 
-<table class="table table-striped">
-  <tr> <td> Player </td>  <td> AV </td>   <td> Next Player </td> <td> Next Player AV </td> <td> NAV </td> </tr>
-  | --------------- | --------------- | --------------- | --------------- | --------------- |
-  <tr> <td>Spergon Winn</td>  <td></td>   <td> </td> <td> </td> <td> </td> </tr>
-  <tr> <td>Spergon Winn</td>  <td></td>   <td> </td> <td> </td> <td> </td> </tr>
-  <tr> <td>Spergon Winn</td>  <td></td>   <td> </td> <td> </td> <td> </td> </tr>
-  <tr> <td>Spergon Winn</td>  <td></td>   <td> </td> <td> </td> <td> </td> </tr>
-</table>
+
 
 
 #### The Best Draft Pick Ever (besides Tom Brady)
