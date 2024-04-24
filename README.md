@@ -74,16 +74,12 @@ Still, there are interesting results in here. I want to zoom in on the first par
 This won't be a surprise to anyone who has a decent understanding of draft history. It's Spergon Wynn, who was drafted 16 spots before Tom Brady and cost Cleveland 182 AV points. 
 
 <table class="table table-striped">
-  <tr> <td> **Player** </td>  <td> **AV** </td>   <td> **Next Player** </td> <td> **Next Player AV** </td> <td> **NAV** </td> </tr>
-  <tr> <td>Spergon Winn</td>  <td></td>   <td>Introduction to the Camp and Python </td> </tr>
-  <tr> <td></td>        <td>9:45</td>   <td>Jupyter and Python Basics </td> </tr>
-  <tr> <td></td>        <td>10:30</td>   <td>Break</td> </tr>
-  <tr> <td></td>        <td>10:40</td>   <td>Python Basics </td> </tr>
-  <tr> <td></td>        <td>12:00</td>   <td>Lunch</td> </tr>
-  <tr> <td></td>        <td>12:30</td>    <td>Python Basics </td> </tr>
-  <tr> <td></td>       <td>1:30</td>    <td>Break </td> </tr>
-  <tr> <td></td>       <td>1:40</td>    <td>Python Data Analysis </td> </tr>
-  <tr> <td></td>       <td>2:30</td>    <td>Camp Ends</td> </tr> 
+  <tr> <td> Player </td>  <td> AV </td>   <td> Next Player </td> <td> Next Player AV </td> <td> NAV </td> </tr>
+  | --------------- | --------------- | --------------- | --------------- | --------------- |
+  <tr> <td>Spergon Winn</td>  <td></td>   <td> </td> <td> </td> <td> </td> </tr>
+  <tr> <td>Spergon Winn</td>  <td></td>   <td> </td> <td> </td> <td> </td> </tr>
+  <tr> <td>Spergon Winn</td>  <td></td>   <td> </td> <td> </td> <td> </td> </tr>
+  <tr> <td>Spergon Winn</td>  <td></td>   <td> </td> <td> </td> <td> </td> </tr>
 </table>
 
 
