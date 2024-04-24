@@ -36,7 +36,13 @@ I look at this in a few different ways. The first is simply looking at how each 
   <img width="750" height="600" src="teams.fig1.png">
 </p>
 
-Here we see that, generally speaking, most teams have a positive NAV score in both total terms (NAV of each pick summed over 32 drafts) and their median NAV added. There are exceptions, of course. Cleveland (a reoccuring theme as we will see), Cincinnati, and Las Vegas are pretty bad at drafting over our window. Teams that have historically been successful on the field during our window tend to be better at drafting (Green Bay, Indianapolis, Balitmore, New England). 
+Here we see that, generally speaking, most teams have a positive NAV score in both total terms (NAV of each pick summed over 32 drafts) and their mean NAV added. There are exceptions, of course. Cleveland (a reoccuring theme as we will see), Cincinnati, and Las Vegas are pretty bad at drafting over our window. Teams that have historically been successful on the field during our window tend to be better at drafting (Green Bay, Indianapolis, Balitmore, New England). 
+
+##### FIGURE 2: Mean NAV Per Team
+<p align="center">
+  <img width="750" height="600" src="teams.fig2.png">
+</p>
+
 
 
 #### The Best and Worst Picks to Have
