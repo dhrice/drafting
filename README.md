@@ -43,32 +43,41 @@ Here we see that, generally speaking, most teams have a positive NAV score in bo
   <img width="750" height="600" src="teams.fig2.png">
 </p>
 
-That is not to say drafting is the end all of success. Multiple teams who are okay or even borderline bad at drafting still have success and can win Super Bowls. The results here are confined to considering draft ability, not the translation to actually winning games.
+The final component of team drafting that I look at is how well teams draft both sides of the ball (sorry special teamers). Figure 3 shows the mean NAV for each team for their defensive draftees and their offensive draftees with a grey dashed line indicating a perfect 1:1 ratio of offensive and defensive drafting success. Results are fairly consistent with what we might expect looking at history. For instance, New Orleans is rather good at drafting offensive players but struggles mightily with drafting effective defensive prospects. Cleveland is bad at everything. Pittsburgh has had success on both sides of the ball.
 
-#### The Best and Worst Picks to Have
-I also wanted to look the pick positions themselves to see if there is anything interesting going on. First, I just look at the mean AV for each pick slot. Figure 3 below shows the results across the 33 drafts. Unsurprisingly, the first pick has the best AV of all of them. On average, drafting first gets you a really good player. 
-
-##### FIGURE 3: Mean AV Per Pick
 <p align="center">
   <img width="750" height="600" src="teams.fig3.png">
 </p>
 
-Still, there are interesting results in here. Figure 4 is the same results but for just the first two rounds (top-64 picks). Some picks stand out as being notably worse than others, especially the 22nd pick.
+That is not to say drafting is the end all of success. Multiple teams who are okay or even borderline bad at drafting still have success and can win Super Bowls. The results here are confined to considering draft ability, not the translation to actually winning games.
 
-##### FIGURE 4: Mean AV Per Pick (First Two Rounds)
+#### The Best and Worst Picks to Have
+I also wanted to look the pick positions themselves to see if there is anything interesting going on. First, I just look at the mean AV for each pick slot. Figure 4 below shows the results across the 33 drafts. Unsurprisingly, the first pick has the best AV of all of them. On average, drafting first gets you a really good player. 
+
+##### FIGURE 4: Mean AV Per Pick
 <p align="center">
   <img width="750" height="600" src="teams.fig4.png">
+</p>
+
+Still, there are interesting results in here. Figure 5 is the same results but for just the first two rounds (top-64 picks). Some picks stand out as being notably worse than others, especially the 22nd pick.
+
+##### FIGURE 5: Mean AV Per Pick (First Two Rounds)
+<p align="center">
+  <img width="750" height="600" src="teams.fig5.png">
 </p>
 
 #### The Worst Draft Pick Ever
 This won't be a suprise to anyone who has a decent understanding of draft history. It's Spergon Wynn, who was drafted 16 spots before Tom Brady and cost Cleveland 182 AV points. 
 
 #### The Best Draft Pick Ever (besides Tom Brady)
+Unsurprisingly, again, the best picks are dominated by QBs. Peyton Manning, Brett Favre, and Drew Brees rond out the top 4 along with Brady, all adding value of over 140 points to their teams. Of course the "best" pick here is who had the best career over their alternative. Plenty of players had excellent careers as did their counterpart. For instance, Philip Rivers and Ben Roethlisberger have the highest combined AV scores over 33 years of drafting at 280 points. Alex Smith and Aaron Rodgers are also up there with 261 points of AV.
 
 #### The Best and Worst Schools To Draft From
 Who doesn't love healthy trash talk between rival schools? In addition to looking at picks and teams, I wanted to see if teams are potentially relying on school reputation or on-field success instead of player ability. While this won't fully answer this question, it does provide some interesting comparisons. To start, I drop any school that doesn't have at least 4 players drafted over the last 33 years, a fairly generous window. It also helpfully reduces our school count from 371 to 189.
 
 The best school for NAV? Harvard, with a mean NAV of 34.4 (predominantly driven by Matt Birk and Ryan Fitzpatrick). That being said, there are only 5 Harvard draftees in the data. Among schools with a decently large number of drafted players, Marshall (with 23 draftees and a mean NAV of 12.56) and Boston College (64 draftees and mean NAV of 10.5) stand out.
 
-The worst schools include some lesser known institutions, like Texas State at -29.37 among its 8 draftees and Kansas, whos 34 draftees have a mean NAV of -5.41. Even among those schools with a large number of players drafted, results aren't always encouraging. Ohio State leads the drafted count with 202 players, but they only provide an average NAV of 0.72 whereas Alabama's 179 players (second most) have a NAV of 2.33. Bragging rights also are owned by Florida who come in tied for 3rd with FSU at 177 draftees but posess a much stronger NAV at 2.14 versus FSU's ... less than excellent ... -1.27.
+The worst schools include some lesser known institutions, like Texas State at -29.37 among its 8 draftees and Kansas, whos 34 draftees have a mean NAV of -5.41. Even among those schools with a large number of players drafted, results aren't always encouraging. Ohio State leads the drafted count with 202 players, but they only provide an average NAV of 0.72 whereas Alabama's 179 players (second most) have a NAV of 2.33. Bragging rights also are owned by Florida, who come in tied for 3rd with FSU at 177 draftees each but posess a much stronger NAV at 2.14 versus FSU's ... less than excellent ... -1.27.
+
+Figure XXXX shows the breakdowns by school, though given the number the x-axis is limited in what it shows.
 
