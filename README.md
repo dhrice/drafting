@@ -30,7 +30,9 @@ TLDR: Teams are generally pretty good at drafting the better player.
 
 I look at this in a few different ways. The first is simply looking at how each team did over those drafts as both a raw number of added value and a mean added value. This is Figure XXXX below. In both plots there is a gray line at 0 (teams below that line are pretty bad at drafting players) and a red line at the median NAV for that dataset (total NAV and median NAV respectively).
 
-FIGURE XXXX
+FIGURE 1: Total NAV Per Team
+[teams.fig1.pdf](https://github.com/dhrice/drafting/files/15097774/teams.fig1.pdf)
+
 
 Here we see that, generally speaking, most teams have a positive NAV score in both total terms (NAV of each pick summed over 32 drafts) and their median NAV added. There are exceptions, of course. Cleveland (a reoccuring theme as we will see), Cincinnati, and Las Vegas are pretty bad at drafting over our window. Teams that have historically been successful on the field during our window tend to be better at drafting (Green Bay, Indianapolis, Balitmore, New England). 
 
@@ -46,7 +48,7 @@ This won't be a suprise to anyone who has a decent understanding of draft histor
 #### The Best and Worst Schools To Draft From
 Who doesn't love healthy trash talk between rival schools? In addition to looking at picks and teams, I wanted to see if teams are potentially relying on school reputation or on-field success instead of player ability. While this won't fully answer this question, it does provide some interesting comparisons. To start, I drop any school that doesn't have at least 4 players drafted over the last 33 years, a fairly generous window. It also helpfully reduces our school count from 371 to 189.
 
-The best school for NAV? Harvard, with a median NAV of 34.4 (predominantly driven by Matt Birk and Ryan Fitzpatrick). That being said, there are only 5 Harvard draftees in the data. Among schools with a decently large number of drafted players, Marshall (with 23 draftees and a median NAV of 12.56) and Boston College (64 draftees and median NAV of 10.5) stand out.
+The best school for NAV? Harvard, with a mean NAV of 34.4 (predominantly driven by Matt Birk and Ryan Fitzpatrick). That being said, there are only 5 Harvard draftees in the data. Among schools with a decently large number of drafted players, Marshall (with 23 draftees and a mean NAV of 12.56) and Boston College (64 draftees and mean NAV of 10.5) stand out.
 
-The worst schools include some lesser known institutions, like Texas State at -29.37 among its 8 draftees and Kansas, whos 34 draftees have a median NAV of -5.41. Even among those schools with a large number of players drafted, results aren't always encouraging. Ohio State leads the drafted count with 202 players, but they only provide a median NAV of 0.72 whereas Alabama's 179 players (second most) have a NAV of 2.33. Bragging rights also are owned by Florida who come in tied for 3rd with FSU at 177 draftees but posess a much stronger NAV at 2.14 versus FSU's ... less than excellent -1.27.
+The worst schools include some lesser known institutions, like Texas State at -29.37 among its 8 draftees and Kansas, whos 34 draftees have a mean NAV of -5.41. Even among those schools with a large number of players drafted, results aren't always encouraging. Ohio State leads the drafted count with 202 players, but they only provide an average NAV of 0.72 whereas Alabama's 179 players (second most) have a NAV of 2.33. Bragging rights also are owned by Florida who come in tied for 3rd with FSU at 177 draftees but posess a much stronger NAV at 2.14 versus FSU's ... less than excellent ... -1.27.
 
