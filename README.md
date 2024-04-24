@@ -46,6 +46,7 @@ Here we see that, generally speaking, most teams have a positive NAV score in bo
 
 The final component of team drafting that I look at is how well teams draft both sides of the ball (sorry special teamers). Figure 3 shows the mean NAV for each team for their defensive draftees and their offensive draftees with a grey dashed line indicating a perfect 1:1 ratio of offensive and defensive drafting success. Results are fairly consistent with what we might expect looking at history. For instance, New Orleans is rather good at drafting offensive players but struggles mightily with drafting effective defensive prospects. Cleveland is bad at everything. Pittsburgh has had success on both sides of the ball.
 
+##### FIGURE 3: Mean NAV Per Team by Offensive and Defensive Draftees
 <p align="center">
   <img width="750" height="600" src="teams.fig3.png">
 </p>
@@ -53,22 +54,38 @@ The final component of team drafting that I look at is how well teams draft both
 That is not to say drafting is the end all of success. Multiple teams who are okay or even borderline bad at drafting still have success and can win Super Bowls. The results here are confined to considering draft ability, not the translation to actually winning games.
 
 #### The Best and Worst Picks to Have
-I also wanted to look the pick positions themselves to see if there is anything interesting going on. First, I just look at the mean AV for each pick slot. Figure 4 below shows the results across the 33 drafts. Unsurprisingly, the first pick has the best AV of all of them. On average, drafting first gets you a really good player. 
+I also wanted to look the pick positions themselves to see if there is anything interesting going on. First, I just look at the mean AV for each pick slot. Figure 4 below shows the results across the 33 drafts. Unsurprisingly, the first pick has the best AV of all of them. On average, drafting first gets you a really good player. Generally speaking, this holds true for most picks. As you get further down in the draft, the AV of each pick decreases.
 
 ##### FIGURE 4: Mean AV Per Pick
 <p align="center">
   <img width="750" height="600" src="teams.fig4.png">
 </p>
 
-Still, there are interesting results in here. Figure 5 is the same results but for just the first two rounds (top-64 picks). Some picks stand out as being notably worse than others, especially the 22nd pick.
+Still, there are interesting results in here. I want to zoom in on the first part of the draft to highlight a couple of these. Figure 5 is the same results but for just the first two rounds (top-64 picks). Some picks stand out as being notably worse than others, especially the 22nd pick. In addition, the 4th pick is producing notably less value than those surrounding it.
 
 ##### FIGURE 5: Mean AV Per Pick (First Two Rounds)
 <p align="center">
   <img width="750" height="600" src="teams.fig5.png">
 </p>
 
+
+
 #### The Worst Draft Pick Ever
 This won't be a surprise to anyone who has a decent understanding of draft history. It's Spergon Wynn, who was drafted 16 spots before Tom Brady and cost Cleveland 182 AV points. 
+
+<table class="table table-striped">
+  <tr> <td> **Player** </td>  <td> **AV** </td>   <td> **Next Player** </td> <td> **Next Player AV** </td> <td> **NAV** </td> </tr>
+  <tr> <td>Spergon Winn</td>  <td></td>   <td>Introduction to the Camp and Python </td> </tr>
+  <tr> <td></td>        <td>9:45</td>   <td>Jupyter and Python Basics </td> </tr>
+  <tr> <td></td>        <td>10:30</td>   <td>Break</td> </tr>
+  <tr> <td></td>        <td>10:40</td>   <td>Python Basics </td> </tr>
+  <tr> <td></td>        <td>12:00</td>   <td>Lunch</td> </tr>
+  <tr> <td></td>        <td>12:30</td>    <td>Python Basics </td> </tr>
+  <tr> <td></td>       <td>1:30</td>    <td>Break </td> </tr>
+  <tr> <td></td>       <td>1:40</td>    <td>Python Data Analysis </td> </tr>
+  <tr> <td></td>       <td>2:30</td>    <td>Camp Ends</td> </tr> 
+</table>
+
 
 #### The Best Draft Pick Ever (besides Tom Brady)
 Unsurprisingly, again, the best picks are dominated by QBs. Peyton Manning, Brett Favre, and Drew Brees round out the top 4 along with Brady, all adding value of over 140 points to their teams. Of course, the "best" pick here is who had the best career over their alternative. Plenty of players had excellent careers but so did their counterpart, resulting in a lower NAV. For instance, Philip Rivers and Ben Roethlisberger have the highest combined AV scores over 33 years of drafting at 280 points but Rivers (drafted ahead of Roethlisberger) only gets a NAV of 18. Alex Smith and Aaron Rodgers are also up there with 261 points of AV, but Smith gets a NAV of -65 despite having a relatively successful career. In fact, Smith has the 96th *worst* NAV across all 8,298 players.
