@@ -48,6 +48,12 @@ That is not to say drafting is the end all of success. Multiple teams who are ok
 #### The Best and Worst Picks to Have
 I also wanted to look 
 
+##### FIGURE 3: Mean AV Per Pick
+<p align="center">
+  <img width="750" height="600" src="teams.fig3.png">
+</p>
+
+
 #### The Worst Draft Pick Ever
 This won't be a suprise to anyone who has a decent understanding of draft history. It's Spergon Wynn, who was drafted 16 spots before Tom Brady and cost Cleveland 182 AV points. 
 
