@@ -31,7 +31,7 @@ TLDR: Teams are generally pretty good at drafting the better player.
 I look at this in a few different ways. The first is simply looking at how each team did over those drafts as both a raw number of added value and a mean added value. This is Figure XXXX below. In both plots there is a gray line at 0 (teams below that line are pretty bad at drafting players) and a red line at the median NAV for that dataset (total NAV and median NAV respectively).
 
 FIGURE 1: Total NAV Per Team
-![screenshot](fig1.png)
+![screenshot](teams.fig1.png)
 
 Here we see that, generally speaking, most teams have a positive NAV score in both total terms (NAV of each pick summed over 32 drafts) and their median NAV added. There are exceptions, of course. Cleveland (a reoccuring theme as we will see), Cincinnati, and Las Vegas are pretty bad at drafting over our window. Teams that have historically been successful on the field during our window tend to be better at drafting (Green Bay, Indianapolis, Balitmore, New England). 
 
