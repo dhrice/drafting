@@ -71,9 +71,10 @@ Still, there are interesting results in here. I want to zoom in on the first par
 
 
 #### The Worst Draft Pick Ever
-This won't be a surprise to anyone who has a decent understanding of draft history. It's Spergon Wynn, who was drafted 16 spots before Tom Brady and cost Cleveland 182 AV points. 
+This won't be a surprise to anyone who has a decent understanding of draft history. It's Spergon Wynn, who was drafted 16 spots before Tom Brady and cost Cleveland 182 AV points. The list is rounded out with some other unsurpising picks for those who follow football closely.
 
-| Player Header | AV Header | Next Player Header | Next Player AV Header | NAV Header |
+##### TABLE 1: Worst NAV Picks Across All Drafts
+| Player | AV | Next Player | Next Player AV | NAV |
 | --------------- | :------------: | --------------- | :-------------: | :-------------: |
 | Spergon Winn | 2 | Tom Brady | 184 | -182 |
 | Todd Marinovich | 3 | Brett Favre | 158 | -155 |
@@ -81,13 +82,26 @@ This won't be a surprise to anyone who has a decent understanding of draft histo
 | Coleman Rudolph | 6 | Michael Strahan | 122 | -116 |
 | Brock Osweiler | 14 | Russell Wilson | 130 | -116 |
 
-
-
-
-
-
 #### The Best Draft Pick Ever (besides Tom Brady)
 Unsurprisingly, again, the best picks are dominated by QBs. Peyton Manning, Brett Favre, and Drew Brees round out the top 4 along with Brady, all adding value of over 140 points to their teams. Of course, the "best" pick here is who had the best career over their alternative. Plenty of players had excellent careers but so did their counterpart, resulting in a lower NAV. For instance, Philip Rivers and Ben Roethlisberger have the highest combined AV scores over 33 years of drafting at 280 points but Rivers (drafted ahead of Roethlisberger) only gets a NAV of 18. Alex Smith and Aaron Rodgers are also up there with 261 points of AV, but Smith gets a NAV of -65 despite having a relatively successful career. In fact, Smith has the 96th *worst* NAV across all 8,298 players.
+
+##### TABLE 2: Best NAV Picks Across All Drafts
+| Player | AV | Next Player | Next Player AV | NAV |
+| --------------- | :------------: | --------------- | :-------------: | :-------------: |
+| Tom Brady | 184 | Todd Husak | 0 | 184 |
+| Peyton Manning | 176 | Ryan Leaf | 1 | 175 |
+| Brett Favre | 158 | Browning Nagle | 5 | 153 |
+| Drew Brees| 167 | Qunicy Carter | 16 | 151 |
+| Derrick Brooks | 142 | Craig Powell | 0 | 142 |
+
+##### TABLE 3: Highest Combined AV Picks Across All Drafts
+| Player | AV | Next Player | Next Player AV | NAV | Total AV
+| --------------- | :------------: | --------------- | :-------------: | :-------------: | :-------------: |
+| Philip Rivers | 149 | Ben Roethlisberger | 131 | 18 | 280 |
+| Eli Manning | 121 | Philip Rivers | 149 | -28 | 270 |
+| Alex Smith | 98 | Aaron Rodgers | 263 | -65 | 261 |
+| Michael Vick | 92 | Drew Brees | 167 | -75 | 259 |
+| Matt Ryan | 146 | Joe Flacco | 93 | 53 | 239 |
 
 #### The Best and Worst Schools to Draft From
 Who doesn't love healthy trash talk between rival schools? In addition to looking at picks and teams, I wanted to see if teams are potentially relying on school reputation or on-field success instead of player ability. While this won't fully answer this question, it does provide some interesting comparisons. To start, I drop any school that doesn't have at least 4 players drafted over the last 33 years, a fairly generous window. It also helpfully reduces our school count from 371 to 189.
