@@ -50,7 +50,7 @@ I also wanted to look the pick positions themselves to see if there is anything 
 
 ##### FIGURE 3: Mean AV Per Pick
 <p align="center">
-  <img width="750" height="600" src="teams.fig3.png">
+  <img width="1000" height="800" src="teams.fig3.png">
 </p>
 
 Still, there are interesting results in here. Figure 4 is the same results but for just the first two rounds (top-64 picks). Some picks stand out as being notably worse than others, especially the 22nd pick.
