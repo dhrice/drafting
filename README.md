@@ -30,6 +30,7 @@ TLDR: Teams are generally pretty good at drafting the better player.
 
 I look at this in a few different ways. The first is simply looking at how each team did over those drafts as both a raw number of added value and a mean added value. This is Figure XXXX below. In both plots there is a gray line at 0 (teams below that line are pretty bad at drafting players) and a red line at the median NAV for that dataset (total NAV and median NAV respectively).
 
+#####FIGURE 1: Total NAV Per Team
 
 ![FIGURE 1: Total NAV Per Team](teams.fig1.png)
 
