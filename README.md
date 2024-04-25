@@ -68,14 +68,21 @@ Still, there are interesting results in here. I want to zoom in on the first par
   <img width="750" height="600" src="teams.fig5.png">
 </p>
 
-However, one interpretation of these results could be that those draft slots are producing players with good careers but their alternative choices are also having decent careers, which would suppress the mean NAV. 
+However, one interpretation of these results could be that those draft slots are producing players with good careers but their alternative choices are also having decent careers, which would suppress the mean NAV. To account for this, I look at the mean NAV by pick (Figure 6). What we see is fairly interesting. The 4th pick in the draft, for instance, generates far less NAV than those picks surrounding it.
+
+##### FIGURE 6: Mean NAV Per Pick (First Two Rounds)
+<p align="center">
+  <img width="750" height="600" src="teams.fig5.png">
+</p>
+
+Further, once you get into the high teens and early 20s we see a similar pattern of draft picks generating less NAV or even negative NAV in the case of picks 22 and 23. By the time we reach picks in the 40s, teams are regularly misjudging player talent and career prospects. While it is certainly true that picking higher is going to likely generate a decent player (see Figure 4), it is also the case that swapping down out of picks the 40s and 50s could generate similar or better returns than players evaluated to fall into those picks.
 
 #### NAV By Position
 The next set of analyses is focused on what positions teams are good at drafting. For this, I take the average NAV for each position across all teams. Figure 6 shows the results below broken up by offensive players, defensive players, and special team picks. Nose Tackles are, by far, the position with the highest NAV at 13.1, with more than double the next highest (centers at 6.32). QBs are also highly placed at 5.05 average NAV. On the other end of the spectrum, teams are not good at drafting players in the secondary positions (defensive backs and safeties).  
 
-##### FIGURE 6: Mean NAV By Postion
+##### FIGURE 7: Mean NAV By Postion
 <p align="center">
-  <img width="750" height="600" src="teams.fig6.png">
+  <img width="750" height="600" src="teams.fig7.png">
 </p>
 
 #### The Worst Draft Pick Ever
@@ -122,9 +129,9 @@ The worst schools include some lesser-known institutions, like Texas State at -2
 
 Figure XXXX shows the breakdowns by school, though given the number the x-axis is limited in what it shows. Table 4 shows some of the "best" and "worst" schools to draft from. It is notable that some of the lowest performing schools are also some of the best on-field college teams over the last 30+ years. It suggests that there may be an implicit bias among draft evaluators towards college success that doesn't strictly translate to the professional game.
 
-##### FIGURE 5: Mean AV Per School
+##### FIGURE 8: Mean AV Per School
 <p align="center">
-  <img width="750" height="600" src="teams.fig7.png">
+  <img width="750" height="600" src="teams.fig8.png">
 </p>
 
 ##### TABLE 4: Notable College Teams by NAV
@@ -147,5 +154,5 @@ Figure XXXX shows the breakdowns by school, though given the number the x-axis i
 | UCLA | -3.98 | 107 |
 
 ### Takeaways
-As I mentioned up at the top of Findings, most teams are pretty good at evaluating talent. While it is clearly hard and there are a lot of misses, generally speaking a lot of teams are at least able to correctly gauge who is the overall better player. However, there are also major areas where draft evaluators could improve. Some picks are "worth" less than others with the 4th pick really standing out as a place where trading out of the position ought to be strongly considered. 
+As I mentioned up at the top of Findings, most teams are pretty good at evaluating talent. While it is clearly hard and there are a lot of misses, generally speaking a lot of teams are at least able to correctly gauge who is the overall better player. However, there are also major areas where draft evaluators could improve. Some picks are "worth" less than others with the 4th pick really standing out as a place where trading out of the position ought to be strongly considered. Similarly, positions like WRs and secondary positions add very little value above the next alternative. Lastly, there does appear to be a bias towards some schools that results in players being drafted who aren't providing value about their next counterpart. There is a ton more that could be done with these data, of course, but this is at least a first glance at how effectively teams evaluate draft prospects.
 
