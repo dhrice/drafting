@@ -61,14 +61,14 @@ I also wanted to look the pick positions themselves to see if there is anything 
   <img width="750" height="600" src="teams.fig4.png">
 </p>
 
-Still, there are interesting results in here. I want to zoom in on the first part of the draft to highlight a couple of these. Figure 5 is the same results but for just the first two rounds (top-64 picks). Some picks stand out as being notably worse than others, especially the 22nd pick. In addition, the 4th pick is producing notably less value than those surrounding it.
+Still, there are interesting results in here. I want to zoom in on the first part of the draft to highlight a couple of these. Figure 5 is the same results but for just the first two rounds (top-64 picks). Some picks stand out as being notably worse than others, especially the 22nd pick. In addition, the 3rd and 14th picks are producing notably less value than those surrounding them.
 
 ##### FIGURE 5: Mean AV Per Pick (First Two Rounds)
 <p align="center">
   <img width="750" height="600" src="teams.fig5.png">
 </p>
 
-
+However, one interpretation of these results could be that those draft slots are producing players with good careers but their alternative choices are also having decent careers, which would suppress the mean NAV. 
 
 #### NAV By Position
 The next set of analyses is focused on what positions teams are good at drafting. For this, I take the average NAV for each position across all teams. Figure 6 shows the results below broken up by offensive players, defensive players, and special team picks. Nose Tackles are, by far, the position with the highest NAV at 13.1, with more than double the next highest (centers at 6.32). QBs are also highly placed at 5.05 average NAV. On the other end of the spectrum, teams are not good at drafting players in the secondary positions (defensive backs and safeties).  
@@ -105,7 +105,7 @@ Unsurprisingly, again, the best picks are dominated by QBs. Peyton Manning, Bret
 Of course, the "best" pick here is who had the best career over their alternative. Plenty of players had excellent careers but so did their counterpart, resulting in a lower NAV. For instance, Philip Rivers and Ben Roethlisberger have the highest combined AV scores over 33 years of drafting at 280 points but Rivers (drafted ahead of Roethlisberger) only gets a NAV of 18. Alex Smith and Aaron Rodgers are also up there with 261 points of AV, but Smith gets a NAV of -65 despite having a relatively successful career. In fact, Smith has the 96th *worst* NAV across all 8,298 players.
 
 ##### TABLE 3: Highest Combined AV Picks Across All Drafts
-| Player | AV | Next Player | Next Player AV | NAV | Total AV
+| Player | AV | Next Player | Next Player AV | NAV | Total AV |
 | --------------- | :------------: | --------------- | :-------------: | :-------------: | :-------------: |
 | Philip Rivers | 149 | Ben Roethlisberger | 131 | 18 | 280 |
 | Eli Manning | 121 | Philip Rivers | 149 | -28 | 270 |
@@ -122,19 +122,29 @@ The worst schools include some lesser-known institutions, like Texas State at -2
 
 Figure XXXX shows the breakdowns by school, though given the number the x-axis is limited in what it shows. Table 4 shows some of the "best" and "worst" schools to draft from. It is notable that some of the lowest performing schools are also some of the best on-field college teams over the last 30+ years. It suggests that there may be an implicit bias among draft evaluators towards college success that doesn't strictly translate to the professional game.
 
-##### FIGURE 5: Mean AV Per Pick (First Two Rounds)
+##### FIGURE 5: Mean AV Per School
 <p align="center">
-  <img width="750" height="600" src="teams.fig5.png">
+  <img width="750" height="600" src="teams.fig7.png">
 </p>
 
 ##### TABLE 4: Notable College Teams by NAV
-| Player | AV | Next Player | Next Player AV | NAV | Total AV
-| --------------- | :------------: | --------------- | :-------------: | :-------------: | :-------------: |
-| Philip Rivers | 149 | Ben Roethlisberger | 131 | 18 | 280 |
-| Eli Manning | 121 | Philip Rivers | 149 | -28 | 270 |
-| Alex Smith | 98 | Aaron Rodgers | 263 | -65 | 261 |
-| Michael Vick | 92 | Drew Brees | 167 | -75 | 259 |
-| Matt Ryan | 146 | Joe Flacco | 93 | 53 | 239 |
+| School | Mean NAV | Number of Drafted Players |
+| --------------- | :------------: | :--------------:| 
+| Ohio State | 0.723 | 202 |
+| Alabama | 2.33 | 179 |
+| Florida | 2.14 | 177 |
+| Florida State | -1.27 | 177 |
+| LSU | 4.99 | 170 |
+| Georgia | 3.90 | 170 |
+| Notre Dame | -0.001 | 168 |
+| USC | -0.05 | 168 |
+| Michigan | 3.67 | 150 |
+| North Carolina | -2.54 | 111 |
+| Harvard | 34.4 | 5 |
+| Boston College | 10/5 | 64 |
+| Purdue | 8.74 | 62 |
+| Northwestern | -4.98 | 42 |
+| UCLA | -3.98 | 107 |
 
 ### Takeaways
 As I mentioned up at the top of Findings, most teams are pretty good at evaluating talent. While it is clearly hard and there are a lot of misses, generally speaking a lot of teams are at least able to correctly gauge who is the overall better player. However, there are also major areas where draft evaluators could improve. Some picks are "worth" less than others with the 4th pick really standing out as a place where trading out of the position ought to be strongly considered. 
