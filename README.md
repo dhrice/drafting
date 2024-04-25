@@ -72,7 +72,7 @@ However, one interpretation of these results could be that those draft slots are
 
 ##### FIGURE 6: Mean NAV Per Pick (First Two Rounds)
 <p align="center">
-  <img width="750" height="600" src="teams.fig5.png">
+  <img width="750" height="600" src="teams.fig6.png">
 </p>
 
 Further, once you get into the high teens and early 20s we see a similar pattern of draft picks generating less NAV or even negative NAV in the case of picks 22 and 23. By the time we reach picks in the 40s, teams are regularly misjudging player talent and career prospects. While it is certainly true that picking higher is going to likely generate a decent player (see Figure 4), it is also the case that swapping down out of picks the 40s and 50s could generate similar or better returns than players evaluated to fall into those picks.
