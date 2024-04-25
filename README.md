@@ -80,13 +80,13 @@ Further, once you get into the high teens and early 20s we see a similar pattern
 #### NAV By Position
 The next set of analyses is focused on what positions teams are good at drafting. For this, I take the average NAV for each position across all teams. Figure 6 shows the results below broken up by offensive players, defensive players, and special team picks. Nose Tackles are, by far, the position with the highest NAV at 13.1, with more than double the next highest (centers at 6.32). QBs are also highly placed at 5.05 average NAV. On the other end of the spectrum, teams are not good at drafting players in the secondary positions (defensive backs and safeties).  
 
-##### FIGURE 7: Mean NAV By Postion
+##### FIGURE 7: Mean NAV By Position
 <p align="center">
   <img width="750" height="600" src="teams.fig7.png">
 </p>
 
 #### The Worst Draft Pick Ever
-This won't be a surprise to anyone who has a decent understanding of draft history. It's Spergon Wynn, who was drafted 16 spots before Tom Brady and cost Cleveland 182 AV points. The list is rounded out with some other unsurpising picks for those who follow football closely.
+This won't be a surprise to anyone who has a decent understanding of draft history. It's Spergon Wynn, who was drafted 16 spots before Tom Brady and cost Cleveland 182 AV points. The list is rounded out with some other unsurprising picks for those who follow football closely.
 
 ##### TABLE 1: Worst NAV Picks Across All Drafts
 | Player | AV | Next Player | Next Player AV | NAV |
@@ -106,7 +106,7 @@ Unsurprisingly, again, the best picks are dominated by QBs. Peyton Manning, Bret
 | Tom Brady | 184 | Todd Husak | 0 | 184 |
 | Peyton Manning | 176 | Ryan Leaf | 1 | 175 |
 | Brett Favre | 158 | Browning Nagle | 5 | 153 |
-| Drew Brees| 167 | Qunicy Carter | 16 | 151 |
+| Drew Brees| 167 | Quincy Carter | 16 | 151 |
 | Derrick Brooks | 142 | Craig Powell | 0 | 142 |
 
 Of course, the "best" pick here is who had the best career over their alternative. Plenty of players had excellent careers but so did their counterpart, resulting in a lower NAV. For instance, Philip Rivers and Ben Roethlisberger have the highest combined AV scores over 33 years of drafting at 280 points but Rivers (drafted ahead of Roethlisberger) only gets a NAV of 18. Alex Smith and Aaron Rodgers are also up there with 261 points of AV, but Smith gets a NAV of -65 despite having a relatively successful career. In fact, Smith has the 96th *worst* NAV across all 8,298 players.
