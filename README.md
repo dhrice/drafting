@@ -70,6 +70,14 @@ Still, there are interesting results in here. I want to zoom in on the first par
 
 
 
+#### NAV By Position
+The next set of analyses is focused on what positions teams are good at drafting. For this, I take the average NAV for each position across all teams. Figure 6 shows the results below broken up by offensive players, defensive players, and special team picks. Nose Tackles are, by far, the position with the highest NAV at 13.1, with more than double the next highest (centers at 6.32). QBs are also highly placed at 5.05 average NAV. On the other end of the spectrum, teams are not good at drafting players in the secondary positions (defensive backs and safeties).  
+
+##### FIGURE 6: Mean NAV By Postion
+<p align="center">
+  <img width="750" height="600" src="teams.fig6.png">
+</p>
+
 #### The Worst Draft Pick Ever
 This won't be a surprise to anyone who has a decent understanding of draft history. It's Spergon Wynn, who was drafted 16 spots before Tom Brady and cost Cleveland 182 AV points. The list is rounded out with some other unsurpising picks for those who follow football closely.
 
